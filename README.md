@@ -50,8 +50,8 @@ Features
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/product-management-system.git
-    cd product-management-system/frontend
+    git clone https://github.com/urajan11/ProductManagament.git
+    cd product-management-system/product_managment_frontend
     ```
 
 2. Install the dependencies:
